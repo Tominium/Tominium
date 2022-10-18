@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tominium&count_private=true&show_icons=true&theme=tokyonight" alt="my Github Stats"/>
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Tominium&theme=tokyonight&hide_border=true&background=302c34">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tominium&count_private=true&show_icons=true&theme=dracula" alt="my Github Stats"/>
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Tominium&theme=dracula&hide_border=true&background=302c34">
 </p>
 <p align="center">
-   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Tominium&layout=compact&hide_border=true&theme=tokyonight&bg_color=302c34&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Tominium&layout=compact&hide_border=true&theme=dracula&bg_color=302c34&langs_count=6&hide=jupyter%20notebook,tex,css,php">
  </p>
 
 ![Tominium's github activity graph](https://activity-graph.herokuapp.com/graph?username=Tominium&theme=tokyo-night)
