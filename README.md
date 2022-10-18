@@ -16,7 +16,7 @@
    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Tominium&layout=compact&hide_border=true&theme=dracula&bg_color=302c34&langs_count=6&hide=jupyter%20notebook,tex,css,php">
  </p>
 
-![Tominium's github activity graph](https://activity-graph.herokuapp.com/graph?username=Tominium&theme=tokyo-night)
+![Tominium's github activity graph](https://activity-graph.herokuapp.com/graph?username=Tominium&theme=dracula)
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
