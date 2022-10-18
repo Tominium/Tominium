@@ -13,6 +13,7 @@
 </p>
 <p align="center">
    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Tominium&layout=compact&hide_border=true&theme=tokyonight&bg_color=302c34&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Tominium&theme=tokyonight&hide_border=true&background=302c34">
  </p>
 
 ![Tominium's github activity graph](https://activity-graph.herokuapp.com/graph?username=Tominium&theme=tokyo-night)
