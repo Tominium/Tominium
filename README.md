@@ -10,7 +10,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tominium&count_private=true&show_icons=true&theme=tokyonight" alt="my Github Stats"/>
-   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Tominium&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000">
 </p>
 
 ![Tominium's github activity graph](https://activity-graph.herokuapp.com/graph?username=Tominium&theme=tokyo-night)
